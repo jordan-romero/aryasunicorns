@@ -1,0 +1,34 @@
+{
+  "hash": "586df9e4",
+  "configHash": "ea49b068",
+  "lockfileHash": "76d309c8",
+  "browserHash": "9082312d",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "7fd03852",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "65f24ffd",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "45c5d711",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-FMHBNRLG": {
+      "file": "chunk-FMHBNRLG.js"
+    },
+    "chunk-WOKEHLUA": {
+      "file": "chunk-WOKEHLUA.js"
+    }
+  }
+}
